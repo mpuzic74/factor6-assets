@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Marko Puzic
+N:Puzic;Marko;;;
+ORG:Factor6 Inc.
+TITLE:Founder & Principal Engineer
+EMAIL;TYPE=INTERNET,WORK:mpuzic@factor6.ca
+TEL;TYPE=CELL,VOICE:403-996-4754
+URL;TYPE=WORK:https://www.factor6.ca
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/markopuzic
+ADR;TYPE=WORK:;;Calgary | Sarnia | Houston;;;;Canada
+NOTE:P.Eng, PMP — Analyzer engineering for owners and EPCs
+END:VCARD
